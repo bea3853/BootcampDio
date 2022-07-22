@@ -142,7 +142,7 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
-## 📄 Licença
+
 
 
 ## 🎁 Gratidão
