@@ -37,7 +37,7 @@ copiar arquivo style.css da pasta style e colar no style.sass
 15 - npm start
 ```
 
-###API:
+###  🛠️ Api:
 
 6 -  "criar a api "  -  cd .. voltamos na pasta 1
 17 -  npx express-generator --no-view api
@@ -100,7 +100,7 @@ db.once("open", _ =>{
 dados.
 
 ```
-### RabbitMQ
+###  🛠️ RabbitMQ
 
 39 -  baixar rabbitmq e earlang
 39a  - acessar o prompt do rabbitmq no pc e colocar 
